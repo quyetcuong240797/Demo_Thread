@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo_Thread</string>
+    <string name="count_down_text">10</string>
+    <string name="count_up_text">0</string>
 </resources>
